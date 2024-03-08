@@ -16,3 +16,6 @@
 5. localhost:3000/
 6. Run test cases in new terminal
     -> npm test
+
+
+![Uploading Screenshot 2024-03-08 at 9.59.09 AM.png…]()
