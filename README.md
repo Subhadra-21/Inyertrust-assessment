@@ -17,5 +17,5 @@
 6. Run test cases in new terminal
     -> npm test
 
+<img width="1239" alt="Screenshot 2024-03-08 at 9 59 09 AM" src="https://github.com/Subhadra-21/intertrust-assessment/assets/59275926/a4d1b314-53ba-48a8-a8a7-8906ffa33ae2">
 
-![Uploading Screenshot 2024-03-08 at 9.59.09 AM.png…]()
